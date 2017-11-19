@@ -1,14 +1,22 @@
 this is the first commit!:wQ!
 
 
+<<<<<<< HEAD
 this is the second commit!i
+=======
+this is the second commit!
+>>>>>>> 4th commit
 
 
 
 
 
 
+<<<<<<< HEAD
 
 
 
 this is 5th commit from test branch!
+=======
+this is the 4th commit!
+>>>>>>> 4th commit
