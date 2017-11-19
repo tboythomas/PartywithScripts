@@ -5,6 +5,7 @@ this is the first commit!:wQ!
 this is the second commit!i
 =======
 this is the second commit!
+<<<<<<< HEAD
 >>>>>>> 4th commit
 
 
@@ -20,3 +21,7 @@ this is 5th commit from test branch!
 =======
 this is the 4th commit!
 >>>>>>> 4th commit
+=======
+
+this is the third commit on the web!
+>>>>>>> 01404423964914bd4efad9fed36afecd09022fc8
